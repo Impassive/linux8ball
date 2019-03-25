@@ -4,8 +4,7 @@ cd ~/8ball
 
 sudo apt install fortune-mod
 
-echo "%
-As I see it, yes
+echo "As I see it, yes
 % 
 It is certain
 %
